@@ -1,2 +1,2 @@
-![](./docs/roz.png)
+![](./docs/plugins.png)
 --
